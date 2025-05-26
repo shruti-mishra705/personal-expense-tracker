@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Personal expense tracker</string>
+    <string name="change_salary">Change Salary</string>
+    <string name="back">Back</string>
+
+    <string-array name="expense_categories">
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Entertainment</item>
+        <item>Shopping</item>
+        <item>Bills</item>
+        <item>Health</item>
+        <item>Other</item>
+    </string-array>
+</resources>
